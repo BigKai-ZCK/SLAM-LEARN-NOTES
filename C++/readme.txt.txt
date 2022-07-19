@@ -1,0 +1,1 @@
+This folder is used to store note files about programming  languages, mainly C++ language.
