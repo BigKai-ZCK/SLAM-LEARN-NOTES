@@ -1,0 +1,1 @@
+This folder is to store notes about tools used in the program of SLAM learning, like CMake, Git etc.

@@ -1,0 +1,1 @@
+This folder is used to store notes about Ubuntu installation & Ubuntu software installation & other problems about using Ubuntu.
